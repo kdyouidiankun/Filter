@@ -1,0 +1,4 @@
+{
+    "name": "Dev Container Python",
+    "image": "pytorch/pytorch:2.4.1-cuda11.8-cudnn9-runtime"
+}
